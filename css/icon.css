@@ -1,0 +1,144 @@
+
+
+@font-face {font-family: "iconfont";
+  src: url('https://at.alicdn.com/t/font_o6k1v1ogcd81714i.eot?t=1491884717106'); /* IE9*/
+  src: url('https://at.alicdn.com/t/font_o6k1v1ogcd81714i.eot?t=1491884717106#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('https://at.alicdn.com/t/font_o6k1v1ogcd81714i.woff?t=1491884717106') format('woff'), /* chrome, firefox */
+  url('https://at.alicdn.com/t/font_o6k1v1ogcd81714i.ttf?t=1491884717106') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('https://at.alicdn.com/t/font_o6k1v1ogcd81714i.svg?t=1491884717106#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:17px;
+    font-style:normal;
+    height: 46px;
+    padding: 0 8px;
+    color: #999;
+}
+
+.icon-Upload:before { content: "\e770"; font-weight: bold;}
+.icon-history:before { content: "\e74f";font-weight: bold;}
+.icon-search:before {
+    content: "\e651";
+    color: #FFF;
+    line-height: 32px;
+    position: absolute;
+    top:0;
+    left:0;
+    width: 46px;
+    font-weight: bold;
+}
+.icon-collect:before { content: "\e62a"; font-size: 22px;}
+.icon-Phone:before { content: "\e8dc"; color: #FD4C5D;font-weight: ;}
+.icon-Phone{padding: 0;position: absolute;left: 0;}
+.icon-up:before {
+    content: "\e600";
+    font-size: 22px;
+    position: absolute;
+    left: 0;
+    top: 1.2px;
+    line-height: 46px;
+    color: #fd4c5d;
+}
+.section_1 .icon-play:before {
+    content: "\e601";
+    font-size: 15px;
+    position: absolute;
+    left: 12px;
+}
+.section_1 .icon-danmu:before {
+    content: "\e602";
+    font-size: 20px;
+    position: absolute;
+    left: 91px;
+    bottom: 6px;
+}
+.section_3 .icon-liuyan:before {
+    content: "\e6f7";
+    position: absolute;
+    font-size: 13.5px;
+    top: .5px;
+    left: 1px;
+}
+.icon-top {
+    position: absolute;
+    left: -2px;
+}
+.icon-top:before {
+    content: "\e62c";
+    color: #fdc02f;
+    font-size: 18px;
+}
+.video_item:nth-child(2) .icon-top:before{
+    color: #e8edee;
+}
+.video_item:nth-child(3) .icon-top:before{
+    color: #fd8e25;
+}
+.icon-more:before {
+    content: "\e620";
+    font-size: 16px;
+    height: 28px;
+    color: #333;
+    position: absolute;
+    display: inline-block;
+    font-weight: bold;
+    margin-left: -10px;
+    line-height: 28px;
+}
+.column .column_left .icon-more:before {
+    margin-top: 8px;
+    color: #FD4C5D;
+    font-size: 15px;
+}
+.column .more a:hover .icon-more:before{
+    color: #E61728;
+}
+.icon-change:before {
+    content: "\e678";
+    font-size: 24px;
+    color: #000;
+    position: absolute;
+    font-weight: 300;
+    left: 2px;
+    top: 1px;
+}
+.icon-bf:before {
+    content: "\e622";
+    position: absolute;
+    color: #FFF;
+    font-size: 20px;
+    top: 14px;
+    left: 18px;
+}
+.column .icon-play:before {
+    content: "\e601";
+    font-size: 15px;
+    position: absolute;
+    left: 0px;
+    top: 5px;
+}
+.column .icon-danmu:before {
+    content: "\e602";
+    font-size: 19.5px;
+    position: absolute;
+    left: -4px;
+    top: 1px;
+}
+.side_first_msg .icon-play:before {
+    left: -1px;
+}
+.column .icon-liuyan:before {
+    content: "\e6f7";
+    position: absolute;
+    font-size: 13px;
+    left: -4px;
+    top: 6px;
+}
+.icon-game:before {
+    content: "\e67e";
+    color: #FD4C5D;
+    position: absolute;
+    left: -8px;
+}
