@@ -1522,6 +1522,9 @@ i {
     .section_1_left ul{
         width: 2540px;
     }
+    .search_text {
+        width: 260px;   
+    }
     .section_1_left img{
         margin-left: 0;
     }
