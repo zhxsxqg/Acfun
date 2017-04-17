@@ -1519,6 +1519,9 @@ i {
     .section_1_left li{
         width: 508px;
     }
+    .search_text {
+        width: 260px;   
+    }
     .section_1_left ul{
         width: 2540px;
     }
